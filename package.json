@@ -1,0 +1,12 @@
+{
+  "name": "node-slack-replies-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "author": "Jake Buob @ TeamGantt",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@slack/client": "^3.5.0",
+    "dotenv": "^2.0.0"
+  }
+}
